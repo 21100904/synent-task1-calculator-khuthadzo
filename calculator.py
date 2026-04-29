@@ -54,4 +54,4 @@ def calculator():
 
         print(f"Result: {result}")
 
-
+calculator()
